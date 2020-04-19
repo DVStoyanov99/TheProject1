@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\TheProject.exe
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\TheProject.deps.json
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\TheProject.runtimeconfig.json
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\TheProject.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\TheProject.dll
+C:\Users\Admin\source\repos\TheProject1\TheProject1\bin\Debug\netcoreapp3.1\TheProject.pdb
+C:\Users\Admin\source\repos\TheProject1\TheProject1\obj\Debug\netcoreapp3.1\TheProject1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TheProject1\TheProject1\obj\Debug\netcoreapp3.1\TheProject1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TheProject1\TheProject1\obj\Debug\netcoreapp3.1\TheProject1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TheProject1\TheProject1\obj\Debug\netcoreapp3.1\TheProject1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\TheProject1\TheProject1\obj\Debug\netcoreapp3.1\TheProject.dll
+C:\Users\Admin\source\repos\TheProject1\TheProject1\obj\Debug\netcoreapp3.1\TheProject.pdb
+C:\Users\Admin\source\repos\TheProject1\TheProject1\obj\Debug\netcoreapp3.1\TheProject.MvcApplicationPartsAssemblyInfo.cache
