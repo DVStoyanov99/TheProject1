@@ -2,7 +2,7 @@
 
 namespace Spice.Data.Migrations
 {
-    public partial class Initial2 : Migration
+    public partial class InitialD : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

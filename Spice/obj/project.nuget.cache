@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VImOo3yF3C8P1b4+cZxWTc3kwo8EqDTG89T3xe5zypEi+rBbnkfT18FIWGf32XBq2i7QdogRy3OEeIRcO+giqQ==",
+  "dgSpecHash": "eCniDD0iAGJndBfVwsR30zfEMl84MDYEz5ENkt0l4XRPCUfPjnKco5fgCjhsROReipFeN5wK5YVF1xZt5Z4Eiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\TheProject1\\Spice\\Spice.csproj",
+  "projectFilePath": "D:\\Filmi\\Spice-master\\Spice\\Spice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.0.0\\microsoft.aspnetcore.authentication.facebook.3.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.0.0\\microsoft.aspnetcore.authentication.google.3.0.0.nupkg.sha512",
@@ -176,9 +176,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

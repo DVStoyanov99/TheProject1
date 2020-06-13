@@ -10,8 +10,8 @@ using Spice.Data;
 namespace Spice.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20200612125135_Initial2")]
-    partial class Initial2
+    [Migration("20200613134336_InitialD")]
+    partial class InitialD
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
